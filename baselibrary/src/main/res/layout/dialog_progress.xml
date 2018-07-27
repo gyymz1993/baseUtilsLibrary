@@ -30,7 +30,6 @@
             android:layout_height="35dp"
             android:layout_gravity="center"
             android:indeterminateBehavior="repeat"
-            android:indeterminateDrawable="@drawable/dialog_loading"
             android:indeterminateOnly="true"
             android:visibility="gone" />
 
