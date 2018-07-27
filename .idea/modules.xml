@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://D:\Library\videoplayLibrary\Mylibrary.iml" filepath="D:\Library\videoplayLibrary\Mylibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nicevideoplayer/nicevideoplayer.iml" filepath="$PROJECT_DIR$/nicevideoplayer/nicevideoplayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/videoplayLibrary.iml" filepath="$PROJECT_DIR$/videoplayLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseUtilsLibrary.iml" filepath="$PROJECT_DIR$/baseUtilsLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/baselibrary/baselibrary.iml" />
     </modules>
   </component>
 </project>
